@@ -1,0 +1,40 @@
+<templateSet group="SASS">
+  <template name="@fun" value="@function $name$(){&#10;&#10;}" description="Create function - sass" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@each" value="@each $item$ in $items${&#10;&#10;}" description="Each statement - sass" toReformat="false" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="items" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@map-example" value="$font-stack:(weight: 200, style: normal),(weight: 300, style: bold);&#10;@each $font in $font-stack{&#10;    font-weight: map-get($font, weight);&#10;}" description="Map example - sass" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@for" value="@for $i from $begin$ through $end${&#10;&#10;}" description="For statement - sass" toReformat="false" toShortenFQNames="true">
+    <variable name="begin" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@if-else" value="@if($condition$){&#10;&#10;} @else {&#10;&#10;}" description="If else statment - sass" toReformat="false" toShortenFQNames="true">
+    <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@while" value="@while $item$ &gt; $items${&#10;&#10;}" description="While statement - sass" toReformat="false" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="items" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
