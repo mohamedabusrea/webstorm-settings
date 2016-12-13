@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[webkeyz-website] - ...\app\styles\layout.scss'" />
-    <option name="defaultScopeName" value="File '[webkeyz-website] - ...\app\styles\layout.scss'" />
-    <option name="SEARCH_SCOPE" value="File '[webkeyz-website] - ...\app\styles\layout.scss'" />
+    <option name="customScope" value="Project 'sketch'" />
+    <option name="defaultScopeName" value="Project 'sketch'" />
+    <option name="SEARCH_SCOPE" value="Project 'sketch'" />
   </component>
 </application>
