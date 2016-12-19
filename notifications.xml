@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Module Manager" shouldLog="false" />
+  </component>
+</application>
