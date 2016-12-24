@@ -1,4 +1,5 @@
 <code_scheme name="Default (5)">
+  <option name="RIGHT_MARGIN" value="180" />
   <CssCodeStyleSettings>
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
