@@ -4,7 +4,7 @@
       <mapping pattern="professionals_females" type="JSON" />
       <mapping pattern="professionals_males" type="JSON" />
       <mapping ext="jason" type="JSON" />
-      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PHP" />
       <mapping ext="nunjucks" type="Twig" />
     </extensionMap>
   </component>
