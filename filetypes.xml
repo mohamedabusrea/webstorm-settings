@@ -3,9 +3,8 @@
     <extensionMap>
       <mapping pattern="professionals_females" type="JSON" />
       <mapping pattern="professionals_males" type="JSON" />
-      <mapping ext="json" type="JSON" />
       <mapping ext="jason" type="JSON" />
-      <removed_mapping ext="json" type="JSON Schema" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="nunjucks" type="Twig" />
     </extensionMap>
   </component>
