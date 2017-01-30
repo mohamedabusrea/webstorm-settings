@@ -5,6 +5,7 @@
       <mapping pattern="professionals_males" type="JSON" />
       <mapping ext="jason" type="JSON" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="LightstreamerNotes.md" type="PLAIN_TEXT" />
       <mapping ext="nunjucks" type="Twig" />
     </extensionMap>
   </component>
