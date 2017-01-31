@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="professionals_females" type="JSON" />
       <mapping pattern="professionals_males" type="JSON" />
+      <mapping pattern="professionals_females" type="JSON" />
       <mapping ext="jason" type="JSON" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="LightstreamerNotes.md" type="PLAIN_TEXT" />
       <mapping ext="nunjucks" type="Twig" />
-      <mapping ext="vue" type="Twig" />
     </extensionMap>
   </component>
 </application>
