@@ -3,5 +3,6 @@
     <ignoreAction name="Language Injection/Inject language or reference" />
     <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
     <ignoreAction name="JavaScript/Replace string with template string" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
   </component>
 </application>
