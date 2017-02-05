@@ -4,5 +4,6 @@
     <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
     <ignoreAction name="JavaScript/Replace string with template string" />
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="CSS/Expand CSS shorthand property" />
   </component>
 </application>
