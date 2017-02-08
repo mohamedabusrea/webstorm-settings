@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fc091098-0e0d-4e19-ad7e-1ab71a3ab368" name="Diwan" url="http://ftp.diwangroup.com">
-        <fileTransfer host="ftp.diwangroup.com" port="21" rootFolder="/public_html/new/wp-content/themes/diwan">
+      <webServer id="fc091098-0e0d-4e19-ad7e-1ab71a3ab368" name="Diwan" url="http://diwangroup.com">
+        <fileTransfer host="diwangroup.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
