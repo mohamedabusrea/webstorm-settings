@@ -7,8 +7,6 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern="LightstreamerNotes.md" type="PLAIN_TEXT" />
       <mapping ext="nunjucks" type="Twig" />
-      <mapping ext="vue" type="Twig" />
-      <removed_mapping ext="vue" approved="true" type="Vue.js file" />
     </extensionMap>
   </component>
 </application>
