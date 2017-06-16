@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[WK-Node] - ...\public\css\layout.scss'" />
-    <option name="defaultScopeName" value="File '[WK-Node] - ...\public\css\layout.scss'" />
-    <option name="SEARCH_SCOPE" value="File '[WK-Node] - ...\public\css\layout.scss'" />
+    <option name="customScope" value="File '[start-project] - ...\gulpfile.babel.js'" />
+    <option name="defaultScopeName" value="File '[start-project] - ...\gulpfile.babel.js'" />
+    <option name="SEARCH_SCOPE" value="File '[start-project] - ...\gulpfile.babel.js'" />
   </component>
 </application>
