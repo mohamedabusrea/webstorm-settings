@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="cshtml" type="HTML" />
       <mapping pattern="professionals_females" type="JSON" />
       <mapping pattern="professionals_males" type="JSON" />
       <mapping ext="jason" type="JSON" />
