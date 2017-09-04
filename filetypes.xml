@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="professionals_males" type="JSON" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="professionals_females" type="JSON" />
+      <mapping pattern="professionals_males" type="JSON" />
       <mapping ext="jason" type="JSON" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="LightstreamerNotes.md" type="PLAIN_TEXT" />
