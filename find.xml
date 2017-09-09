@@ -1,27 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.cs</mask>
-      <mask>*.csh</mask>
-      <mask>*.csht</mask>
-      <mask>*.cshtml</mask>
-      <mask>.</mask>
-      <mask>.cs</mask>
-      <mask>.css</mask>
-    </recentFileMasks>
+    <option name="customScope" value="File '[webkeyz-website] - ...\app\styles\layout.scss'" />
+    <option name="defaultScopeName" value="File '[webkeyz-website] - ...\app\styles\layout.scss'" />
+    <option name="SEARCH_SCOPE" value="File '[webkeyz-website] - ...\app\styles\layout.scss'" />
   </component>
 </application>
