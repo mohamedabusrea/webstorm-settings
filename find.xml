@@ -13,9 +13,9 @@
       <mask>*.mxml</mask>
       <mask>*.jsp</mask>
       <mask>*.impex</mask>
-      <mask>*.tag</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.tag</mask>
     </recentFileMasks>
   </component>
 </application>
