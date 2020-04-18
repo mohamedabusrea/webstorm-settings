@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <CssCodeStyleSettings>
-    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
-  </CssCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
